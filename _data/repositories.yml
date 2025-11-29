@@ -1,0 +1,14 @@
+# github_users:
+#   - tanerjn
+
+repo_description_lines_max: 2
+
+github_repos:
+  - tanerjn/terraform-azure
+  - tanerjn/terraform-gcp
+  - tanerjn/openliberty-demo
+  - tanerjn/jms-demo
+  - tanerjn/certifications
+  - tanerjn/aws-load-balancer
+  - tanerjn/elk-scripts
+  - tanerjn/openstack-deployment

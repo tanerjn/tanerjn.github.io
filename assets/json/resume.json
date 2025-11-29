@@ -1,0 +1,235 @@
+{
+  "basics": {
+    "name": "Taner Metin",
+    "profession": "Computer Scientist & Control Engineer",
+    "image": "",
+    "email": "tanrmetn@gmail.com",
+    "phone": "(+49)17657604221",
+    "summary": "Researcher with a strong background in Control and Automation Engineering (Istanbul Technical University) and a Master’s in Computer Science (TU Berlin). Experienced in Software-Defined Networking, Mobile/Wireless Communication, and Automation Systems. Passionate about building intelligent, scalable, and secure network infrastructures, with contributions to international organizations to drive innovation and growth.",
+    "location": {
+      "address": "Samariterkiez, Friedrichshain",
+      "postalCode": "10247",
+      "city": "Berlin",
+      "countryCode": "Germany",
+      "region": "Berlin"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "FixHub",
+      "position": "Solution Architect(Freelance)",
+      "url": "https://fixhubs.com",
+      "startDate": "2022-07-01",
+      "endDate": "",
+      "summary": "Development of cloud applications, utilising IAC and DevOps principles.",
+      "highlights": ["AWS, GCP, Azure, OpenShift"]
+    },
+    {
+      "name": "Westfalische Hochschule",
+      "position": "Researcher(Security)",
+      "startDate": "2023-04-01",
+      "endDate": "2023-10-01",
+      "summary": "Security optimisations for first 5G-deployed in Germany.",
+      "highlights": ["Vulnerability Analysis"]
+    },
+    {
+      "name": "Fraunhofer FOKUS",
+      "position": "Researcher(Networking)",
+      "startDate": "2017-07-01",
+      "endDate": "2021-11-01",
+      "summary": "Research activities for private and public networks with various organisations.",
+      "highlights": ["SDN, 4G, 5G"]
+    },
+    {
+      "name": "Beckhoff Automation",
+      "position": "Technical Support Engineer",
+      "startDate": "2015-03-01",
+      "endDate": "2016-05-01",
+      "summary": "Application development and support clients in manufacturing, robotics and smart buildings.",
+      "highlights": ["Industrial Automation"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ITU Solar Car Team",
+      "location": "Istanbul, Turkey",
+      "position": "Modelling & Simulation",
+      "url": "https://www.itusct.com/",
+      "startDate": "2013-04-01",
+      "endDate": "2014-07-01",
+      "summary": "Creating race simulation based on models of car and different race circuits for energy optimisation"
+    },
+    {
+      "organization": "ITU Mountaineering Club",
+      "location": "Istanbul, Turkey",
+      "position": "Outdoors",
+      "startDate": "2012-04-01",
+      "endDate": "2013-07-01",
+      "summary": "Excursion to various locations, climbing and survival in the nature"
+    },
+    {
+      "organization": "ITU IEEE Student Club",
+      "location": "Istanbul, Turkey",
+      "position": "Organisation",
+      "startDate": "2010-12-01",
+      "endDate": "2012-04-01",
+      "summary": "Event organisation and networking"
+    },
+    {
+      "organization": "Robocup Federation",
+      "location": "Istanbul, Turkey",
+      "position": "Organisation",
+      "startDate": "2011-06-01",
+      "endDate": "2011-08-01",
+      "summary": "Event organisation and networking"
+    },
+    {
+      "organization": "Turkiye Egitim Gonulluleri Vakfi",
+      "location": "Istanbul, Turkey",
+      "position": "Education",
+      "startDate": "2012-06-01",
+      "endDate": "2013-06-01",
+      "summary": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technische Universitaet Berlin",
+      "location": "Berlin, Germany",
+      "area": "Computer Science",
+      "studyType": "MSc.",
+      "startDate": "2016-09-15",
+      "endDate": "2019-06-01"
+    },
+    {
+      "institution": "Istanbul Technical University",
+      "location": "Istanbul, Turkey",
+      "area": "Control and Automation Engineering",
+      "studyType": "BSc.",
+      "startDate": "2010-09-15",
+      "endDate": "2015-02-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Gold Medal",
+      "date": "2021-10-01",
+      "awarder": "Fraunhofer FOKUS",
+      "summary": "Contributions to Open5GCore Ecosystem"
+    },
+    {
+      "title": "Best Master Thesis",
+      "date": "2019-06-01",
+      "awarder": "Fraunhofer FOKUS",
+      "summary": "Design and Implementation of an Android Based Solution for 5G Connectivity"
+    },
+    {
+      "title": "Best Engineering & Race Cup",
+      "date": "2013-06-01",
+      "awarder": "TUBITAK",
+      "summary": "ITU Solar Car Team ARIBA-5"
+    },
+    {
+      "title": "Rank 4th",
+      "date": "2005-06-01",
+      "awarder": "Turkish Armed Forces",
+      "summary": "4th rank after examination rounds for military school within ~50000 candidates"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Cloud Practitioner",
+      "date": "2022-06-01",
+      "issuer": "AWS",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Azure Fundamentals",
+      "date": "2024-10-01",
+      "issuer": "Microsoft",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Cloud Digital Leader",
+      "date": "2024-12-15",
+      "issuer": "Google",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "IELTS C1",
+      "date": "2025-02-01",
+      "issuer": "British Council",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "RedHat AI Executive",
+      "date": "2025-04-26",
+      "issuer": "RedHat",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "RedHat AI Technologist",
+      "date": "2025-04-30",
+      "issuer": "RedHat",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "IBM Data Analyst",
+      "date": "2025-05-15",
+      "issuer": "IBM",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Machine Learning Specialisation",
+      "date": "2025-05-19",
+      "issuer": "Stanford Online",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor Metin Gokasan",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Dept. Chair @ITU CAE @ITU MEAM"
+    },
+    {
+      "name": "Professor Turan Soylemez",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Dean @ITU EE Faculty"
+    },
+    {
+      "name": "Professor Volker Jungnickel",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Research Director @Frauhofer HHI"
+    },
+    {
+      "name": "Professor Thomas Magedanz",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Research Director @Frauhofer FOKUS"
+    },
+    {
+      "name": "Dr. Marius Corici",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Deputy Manager @Frauhofer FOKUS"
+    },
+    {
+      "name": "Cem Ayday",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Managing Director @Beckhoff Turkey"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Future Networks",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["HPC", "ML", "6G", "Intelligent Systems"]
+    }
+  ]
+}
