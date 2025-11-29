@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Taner Metin",
-    "profession": "Computer Scientist & Control Engineer",
+    "profession": "Computer Scientist",
     "image": "",
     "email": "tanrmetn@gmail.com",
-    "phone": "(+49)17657604221",
-    "summary": "Researcher with a strong background in Control and Automation Engineering (Istanbul Technical University) and a Master’s in Computer Science (TU Berlin). Experienced in Software-Defined Networking, Mobile/Wireless Communication, and Automation Systems. Passionate about building intelligent, scalable, and secure network infrastructures, with contributions to international organizations to drive innovation and growth.",
+    "phone": "",
+    "summary": "SDN | NSO",
     "location": {
       "address": "Samariterkiez, Friedrichshain",
       "postalCode": "10247",
@@ -135,15 +135,21 @@
       "date": "2013-06-01",
       "awarder": "TUBITAK",
       "summary": "ITU Solar Car Team ARIBA-5"
-    },
-    {
-      "title": "Rank 4th",
-      "date": "2005-06-01",
-      "awarder": "Turkish Armed Forces",
-      "summary": "4th rank after examination rounds for military school within ~50000 candidates"
     }
   ],
   "certificates": [
+    {
+      "name": "KCNA",
+      "date": "2022-10-13",
+      "issuer": "Cloud Native Computing Foundation",
+      "icon": "fa-solid fa-certificate"
+    },
+    {
+      "name": "KCSA",
+      "date": "2022-10-15",
+      "issuer": "Cloud Native Computing Foundation",
+      "icon": "fa-solid fa-certificate"
+    },
     {
       "name": "Cloud Practitioner",
       "date": "2022-06-01",

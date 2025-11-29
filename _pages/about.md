@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Computer Scientist | Control Engineer</a>
+subtitle: <a href='#'>Computer Scientist </a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Milky Way Galaxy,</p>
-    <p>CET</p>
+    <p>Berlin, Germany</p>
+    <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,10 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Researcher with a strong foundation in Control and Automation Engineering from [Istanbul Technical University](https://www.itu.edu.tr/) and a Master’s degree in Computer Science from [TU Berlin](https://www.tu.berlin), experienced in Software-Defined Networking, Mobile/Wireless Communication, and Automation Systems in research and development activities at several organisations in academia and industry.
+with background in Control and Automation Engineering and Computer Science, experienced in autonomous applications and digital networks in research and development activities at several organisations.
 
-I am passionate about leveraging cutting-edge technologies to solve complex engineering challenges and have worked on multiple interdisciplinary projects involving IoT, data-driven automation, and network optimization. My experience includes developing innovative solutions for optimizing infrastructure and enhancing the network performance on public and private networks.
+I am passionate about leveraging cutting-edge technologies to solve complex engineering challenges and have worked on multiple interdisciplinary projects. My experience includes developing innovative solutions for optimizing infrastructure and enhancing the network performance on public and private networks.
 
-With a deep understanding of both hardware and software components, I am adept at designing integrated systems that bridge the gap between theoretical concepts and practical applications, ensuring high performance and scalability in computer and communication networks. I do like to experiment web technologies irregularly and share my experiences on [xleap](https://xleap.pro).
+With a deep understanding of both hardware and software components, I am adept at designing integrated systems that bridge the gap between theoretical concepts and practical applications, ensuring high performance and scalability in computer networks.
 
 Feel free to drop me an [email](mailto:tanrmetn@gmail.com) if you have anything to discuss with.
