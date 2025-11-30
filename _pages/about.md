@@ -28,7 +28,7 @@ latest_posts:
 
 with background in Control and Automation Engineering and Computer Science, experienced in autonomous applications and digital networks in research and development activities at several organisations.
 
-I am passionate about leveraging cutting-edge technologies to solve complex engineering challenges and have worked on multiple interdisciplinary projects. My experience includes developing innovative solutions for optimizing infrastructure and enhancing the network performance on public and private networks.
+I am passionate about leveraging cutting-edge technologies to solve complex engineering challenges and have been working on very interesting interdisciplinary projects. My experience includes developing innovative solutions for optimizing infrastructure and enhancing the network performance on public and private networks.
 
 With a deep understanding of both hardware and software components, I am adept at designing integrated systems that bridge the gap between theoretical concepts and practical applications, ensuring high performance and scalability in computer networks.
 
