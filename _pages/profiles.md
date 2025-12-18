@@ -28,11 +28,11 @@ profiles:
     more_info: >
       <p>Play mode</p>
   - align: left
-    image: fest.jpg
-    content: bio-4.md
+    image: fix2.jpg
+    content: bio-6.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Fest mode</p>
+      <p>Ride mode</p>
   - align: right
     image: citta.jpg
     content: bio-5.md
