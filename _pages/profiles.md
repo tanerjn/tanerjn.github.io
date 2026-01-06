@@ -22,7 +22,7 @@ profiles:
     more_info: >
       <p>Garden</p>
   - align: right
-    image: run.jpg
+    image: speech.jpg
     content: bio-3.md
     image_circular: false # crops the image to make it circular
     more_info: >
