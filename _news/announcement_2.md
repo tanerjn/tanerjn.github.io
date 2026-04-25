@@ -8,7 +8,7 @@ related_posts: false
 
 Goodbye, old blog! 👋 (Well, sort of… it will be alive only for experimental stuff!)
 
-This post marks the shift from my earlier experiments at [xleap.pro](http://xleap.pro) to a more refined approach here. No more just random thoughts and code snippets—expect more meaningful reflections and structured ideas moving forward. Here’s to new beginnings, fresh insights, and fewer "what was I thinking?" moments!
+This post marks the shift from my earlier experiments at [xleap.art](http://xleap.art) to a more refined approach here. No more just random thoughts and code snippets—expect more meaningful reflections and structured ideas moving forward. Here’s to new beginnings, fresh insights, and fewer "what was I thinking?" moments!
 
 ---
 
