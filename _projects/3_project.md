@@ -8,3 +8,4 @@ category: work
 ---
 
 Orchestration toolkit for anomaly detection.
+Partners: IBM, Orange, Telefonica, Nokia, Bell Labs.
