@@ -7,4 +7,4 @@ importance: 3
 category: work
 ---
 
-Orchestration toolkit for anomaly detection product IBM ADE, self healing networks. Used technologies: OpenStack, Anible, Redis, Jenkins, Spark, Monasca, Kafka.
+Orchestration toolkit for anomaly detection.
