@@ -59,7 +59,7 @@
   "volunteer": [
     {
       "organization": "ITU Solar Car Team",
-      "location": "Istanbul, Turkey",
+      "location": "Istanbul, Türkiye",
       "position": "Modelling & Simulation",
       "url": "https://www.itusct.com/",
       "startDate": "2013-04-01",
@@ -68,7 +68,7 @@
     },
     {
       "organization": "ITU Mountaineering Club",
-      "location": "Istanbul, Turkey",
+      "location": "Istanbul, Türkiye",
       "position": "Outdoors",
       "startDate": "2012-04-01",
       "endDate": "2013-07-01",
@@ -76,7 +76,7 @@
     },
     {
       "organization": "ITU IEEE Student Club",
-      "location": "Istanbul, Turkey",
+      "location": "Istanbul, Türkiye",
       "position": "Organisation",
       "startDate": "2010-12-01",
       "endDate": "2012-04-01",
@@ -84,7 +84,7 @@
     },
     {
       "organization": "Robocup Federation",
-      "location": "Istanbul, Turkey",
+      "location": "Istanbul, Türkiye",
       "position": "Organisation",
       "startDate": "2011-06-01",
       "endDate": "2011-08-01",
@@ -92,7 +92,7 @@
     },
     {
       "organization": "Turkiye Egitim Gonulluleri Vakfi",
-      "location": "Istanbul, Turkey",
+      "location": "Istanbul, Türkiye",
       "position": "Education",
       "startDate": "2012-06-01",
       "endDate": "2013-06-01",
@@ -110,7 +110,7 @@
     },
     {
       "institution": "Istanbul Technical University",
-      "location": "Istanbul, Turkey",
+      "location": "Istanbul, Türkiye",
       "area": "Control and Automation Engineering",
       "studyType": "BSc.",
       "startDate": "2010-09-15",
@@ -135,68 +135,6 @@
       "date": "2013-06-01",
       "awarder": "TUBITAK",
       "summary": "ITU Solar Car Team ARIBA-5"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "KCNA",
-      "date": "2022-10-13",
-      "issuer": "Cloud Native Computing Foundation",
-      "icon": "fa-solid fa-certificate"
-    },
-    {
-      "name": "KCSA",
-      "date": "2022-10-15",
-      "issuer": "Cloud Native Computing Foundation",
-      "icon": "fa-solid fa-certificate"
-    },
-    {
-      "name": "Cloud Practitioner",
-      "date": "2022-06-01",
-      "issuer": "AWS",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Azure Fundamentals",
-      "date": "2024-10-01",
-      "issuer": "Microsoft",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Cloud Digital Leader",
-      "date": "2024-12-15",
-      "issuer": "Google",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "IELTS C1",
-      "date": "2025-02-01",
-      "issuer": "British Council",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "RedHat AI Executive",
-      "date": "2025-04-26",
-      "issuer": "RedHat",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "RedHat AI Technologist",
-      "date": "2025-04-30",
-      "issuer": "RedHat",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "IBM Data Analyst",
-      "date": "2025-05-15",
-      "issuer": "IBM",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Machine Learning Specialisation",
-      "date": "2025-05-19",
-      "issuer": "Stanford Online",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "references": [
@@ -228,7 +166,7 @@
     {
       "name": "Cem Ayday",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Managing Director @Beckhoff Turkey"
+      "reference": "Managing Director @Beckhoff Türkiye"
     }
   ],
   "interests": [
