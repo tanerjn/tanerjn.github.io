@@ -31,4 +31,4 @@ I am passionate about leveraging cutting-edge technologies to solve complex engi
 
 With a deep understanding of both hardware and software components, I am adept at designing integrated systems that bridge the gap between theoretical concepts and practical applications, ensuring high performance and scalability in computer networks.
 
-Feel free to drop me an [email](mailto:tanerm@acm.org) if you have anything to discuss with.
+Feel free to drop me an [email](mailto:tanermetin@acm.org) if you have anything to discuss with.
