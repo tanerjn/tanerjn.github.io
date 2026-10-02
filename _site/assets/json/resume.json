@@ -3,15 +3,15 @@
     "name": "Taner Metin",
     "profession": "Computer Scientist",
     "image": "",
-    "email": "tanermetin@acm.org",
+    "email": "tanerm@acm.org",
     "phone": "",
     "summary": "SDN | NSO",
     "location": {
-      "address": "Samariterkiez, Friedrichshain",
-      "postalCode": "10247",
-      "city": "Berlin",
-      "countryCode": "Germany",
-      "region": "Berlin"
+      "address": "Florida, US",
+      "postalCode": "32114",
+      "city": "Daytona Beach",
+      "countryCode": "US",
+      "region": "Florida"
     },
     "profiles": [
       {
@@ -23,8 +23,35 @@
   },
   "work": [
     {
+      "name": "Embry Riddle Aeronautical University",
+      "position": "Research Assistant",
+      "url": "https://www.erau.edu",
+      "startDate": "2026-08-01",
+      "endDate": "",
+      "summary": "Autonomous Flight, Aerial Intelligence",
+      "highlights": ["UAV"]
+    },
+    {
+      "name": "IBB AG",
+      "position": "Lecturer",
+      "url": "https://www.ibb.com/",
+      "startDate": "2026-06-01",
+      "endDate": "2026-08-01",
+      "summary": "Cloud Computing",
+      "highlights": ["AWS"]
+    },
+    {
+      "name": "B1 Systems",
+      "position": "Senior OpenSource Consultant",
+      "url": "https://b1-systems.de",
+      "startDate": "2025-08-01",
+      "endDate": "2025-11-01",
+      "summary": "GovTech",
+      "highlights": ["Kubernetes"]
+    },
+    {
       "name": "FixHub",
-      "position": "Solution Architect(Freelance)",
+      "position": "Cloud Architect(Freelance)",
       "url": "https://fixhubs.com",
       "startDate": "2022-07-01",
       "endDate": "",
