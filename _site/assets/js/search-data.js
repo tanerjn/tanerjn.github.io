@@ -500,7 +500,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.xleap.art/", "_blank");
+          window.open("https://www.xleap.space/", "_blank");
         },
       },{
       id: 'light-theme',

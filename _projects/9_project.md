@@ -9,7 +9,7 @@ category: fun
 
 This is not really a project, I waste my time creating myself problems that I think not solveable. And go through pain to try to find a way to solve them. 
 
-Below are some screenshots that I mix and publish on my site, xleap.pro. 
+Below are some screenshots that I mix and publish on my site, xleap.space. 
 
     ---
     layout: Standard
