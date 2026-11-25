@@ -3,7 +3,7 @@ layout: profiles
 permalink: /bio/
 title: bio
 description:
-nav: false
+nav: true
 nav_order: 7
 
 profiles:
